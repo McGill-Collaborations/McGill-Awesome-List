@@ -1,6 +1,7 @@
 # McGill Awesome List
 A list of all the resources for McGill students.
 
+![](images/mcgill.png)
 ## 🏫 McGill Official Websites
 - [McGill University](https://www.mcgill.ca)
 - [Management Undergraduate Society](https://www.musmcgill.com/)
@@ -30,7 +31,7 @@ A list of all the resources for McGill students.
 - McGil Official Discord
 
 ## 🥐 Best Food in Montreal
-- sasharesume.com/map
+- [Map of Best Places in Montreal](sasharesume.com/map)
 
 
 
