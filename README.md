@@ -28,10 +28,10 @@ Note: This list is still new, please help improve it!
 - Find a Seat
 
 ## 🧑‍🏫 Student Services
-- Campus Life and Engagements
-- Career Planning Service
-- First People's House
-- International Student Services
+- [Campus Life and Engagements](https://www.mcgill.ca/cle/)
+- [Career Planning Service](https://www.mcgill.ca/caps/)
+- [First People's House](https://www.mcgill.ca/fph/)
+- [International Student Services](https://www.mcgill.ca/internationalstudents/)
 
 ## 🌎 McGill Discord Servers
 - McGil Official Discord
