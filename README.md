@@ -10,8 +10,10 @@ Note: This list is still new, please help improve it!
 - [McGill University](https://www.mcgill.ca)
 - [Management Undergraduate Society](https://www.musmcgill.com/)
 - [McGill Reddit](https://www.reddit.com/r/mcgill/)
-- McGill Library
-- McGill Writing Center
+- [McGill Library](https://www.mcgill.ca/library/)
+- [McGill Writing Center](https://www.mcgill.ca/mwc/)
+- [Visual Schedule Builder](https://vsb.mcgill.ca/)
+- [McGill Course Finder](https://www.mcgill.ca/students/courses/calendars/course-search)
 
 ## 🎓 Students Developed Tools
 - McGill Enhanced
