@@ -17,7 +17,6 @@
 - Doccum
 
 ## 👩‍💻 Open Source Projects
-- McGill Innovations
 - McGill Enhanced
 - McGill App
 - Find a Seat
