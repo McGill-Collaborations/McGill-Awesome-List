@@ -37,7 +37,8 @@ Note: This list is still new, please help improve it!
 - McGil Official Discord
 
 ## 🥐 Best Food in Montreal
-- [Map of Best Places in Montreal](sasharesume.com/map)
+- [McGil Official Discord](https://discord.com/invite/mcgill)
+- [McGill Student Hub](https://discord.gg/BerRzAV6wV)
 
 ---
 
