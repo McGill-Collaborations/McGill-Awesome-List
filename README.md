@@ -15,12 +15,12 @@ Note: This list is still new, please help improve it!
 - [Visual Schedule Builder](https://vsb.mcgill.ca/)
 - [McGill Course Finder](https://www.mcgill.ca/students/courses/calendars/course-search)
 
-## 🎓 Students Developed Tools
+## 🎓 Student Developed Tools
 - McGill Enhanced
-- Find a Seat
-- Visual Schedule Builder
-- McGill Course Finder
-- Doccum
+  - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/mcgillenhanced/)
+  - [Chrome](https://chrome.google.com/webstore/detail/mcgill-enhanced/jlacaimkacnkhlcgapgakpklnibgfkde?hl=en)
+- [Find a Seat](https://www.freeseatfinder.com/)
+- [Docuum](http://www.docuum.com/McGill)
 
 ## 👩‍💻 Open Source Projects
 - McGill Enhanced
