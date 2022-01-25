@@ -1,5 +1,9 @@
 # McGill Awesome List 🥳 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+> An open source list of all the McGill resources for students! <br>
+
+Note: This list is still new, please help improve it!
+
 <img src="images/mcgill.png" width=100% height=100%>
 
 ## 🏫 McGill Official Websites
