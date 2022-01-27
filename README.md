@@ -1,6 +1,6 @@
 # McGill Awesome List 🥳 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-> An open source list of all the McGill resources for students! <br>
+An open source list of all the McGill resources for students! <br>
 
 Note: This list is still new, please help improve it!
 
@@ -8,8 +8,6 @@ Note: This list is still new, please help improve it!
 
 ## 🏫 McGill Official Websites
 - [McGill University](https://www.mcgill.ca)
-- [Management Undergraduate Society](https://www.musmcgill.com/)
-- [McGill Reddit](https://www.reddit.com/r/mcgill/)
 - [McGill Library](https://www.mcgill.ca/library/)
 - [McGill Writing Center](https://www.mcgill.ca/mwc/)
 - [Visual Schedule Builder](https://vsb.mcgill.ca/)
@@ -22,10 +20,21 @@ Note: This list is still new, please help improve it!
 - [Find a Seat](https://www.freeseatfinder.com/)
 - [Docuum](http://www.docuum.com/McGill)
 
+## 👥 Student Communities
+- [McGill Reddit](https://www.reddit.com/r/mcgill/)
+- [McGil Official Discord](https://discord.com/invite/mcgill)
+- [McGill Student Hub](https://discord.gg/BerRzAV6wV)
+- Students' Society of McGill University
+- [Management Undergraduate Society](https://www.musmcgill.com/)
+- Science Undergraduate Society
+- Math Undergraduate Society
+- Engineering Undergraduate Society
+
 ## 👩‍💻 Open Source Projects
 - McGill Enhanced
 - McGill App
 - Find a Seat
+- McGill Courselink
 
 ## 🧑‍🏫 Student Services
 - [Campus Life and Engagements](https://www.mcgill.ca/cle/)
@@ -33,12 +42,12 @@ Note: This list is still new, please help improve it!
 - [First People's House](https://www.mcgill.ca/fph/)
 - [International Student Services](https://www.mcgill.ca/internationalstudents/)
 
-## 🌎 McGill Discord Servers
-- McGil Official Discord
+## 🌎 International Students
+- 
 
-## 🥐 Best Food in Montreal
-- [McGil Official Discord](https://discord.com/invite/mcgill)
-- [McGill Student Hub](https://discord.gg/BerRzAV6wV)
+## 🥐 Best Foods in Montreal
+-
+
 
 ---
 
