@@ -87,9 +87,11 @@
 
 # Contributing
 
-1. Edit README.md
-2. Commit changes
-3. Submit a Pull Request
+1. Go to README.md
+2. Click the pencil "Edit" button top right
+3. Make changes
+4. Click "Propose Changes"
+5. Click "Pull Request"
 
 ## License 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <br>
