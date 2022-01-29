@@ -87,12 +87,9 @@
 
 # Contributing
 
-1. [Fork it](https://github.com/McGill-Innovations/McGill-Awesome-List/fork)
-   1. Create your feature branch (`git checkout -b my-new-list-item`)
-   2. Commit your changes (`git commit -am 'Add a new list item'`)
-   3. Push to the branch (`git push origin my-new-list-item`)
-   4. Create new Pull Request
-2. Submit a Pull Request to the [master branch](https://github.com/McGill-Innovations/McGill-Awesome-List/tree/master)
+1. Edit README.md
+2. Commit changes
+3. Submit a Pull Request
 
 ## License 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <br>
