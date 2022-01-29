@@ -17,7 +17,7 @@
 - Doccum
 
 ## 👩‍💻 Open Source Projects
-- McGill Innovations
+- McGill Reddit Wiki
 - McGill Enhanced
 - McGill App
 - Find a Seat
@@ -31,8 +31,60 @@
 ## 🌎 McGill Discord Servers
 - McGil Official Discord
 
-## 🥐 Best Food in Montreal
-- [Map of Best Places in Montreal](sasharesume.com/map)
+## Safety Resources
+- Call 911 for all emergency
+- SSMU Walksafe 514-398-2498
+- SSMU Drivesafe 514-398-8040
+
+## Mental Health Resources
+- Call 911 for all emergencies
+- Nightline (514) 398 6246
+- Peer Support Centre
+- McGill Counselling
+- McGill Psychiatric Services
+- SACOMSS (514) 398-2498
+- OSVRSE (514) 398-4486
+
+## Legal Resources
+- Educaloi
+- Legal Information Clinic at McGill
+- Project Genesis
+
+## Campus Media
+- CKUT (radio)
+- TVM (video)
+- The McGill Tribune (print)
+- The McGill Daily (print)
+- The Bull & Bear (print)
+- The Plumber's Ledger (print)
+- Leacock's (print)
+- Le Delit (print)
+- McGill Media Relations Office (official McGill press releases)
+
+## 🥐 Food Around McGill 
+- Residence Cafeterias
+  - BMH
+  - C4
+  - Douglas Hall
+  - RVC
+  - New Rez
+- Others
+  - Athletics Cafe
+  - Booster Juice
+  - Dispatch
+  - Education Cafe
+  - Engineering General Store
+  - Law Cafe
+  - McConnell Eng Cafe
+  - Med Cafe
+  - Redpath Cafe
+  - Second Cup
+  - Soupe Cafe
+  - Starbucks
+  - Subway
+  - Trottier Cafe
+  - Quesada
+  - Vinh's
 
 ---
 
