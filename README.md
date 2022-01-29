@@ -5,9 +5,15 @@
 ## 🏫 McGill Official Websites
 - [McGill University](https://www.mcgill.ca)
 - [Management Undergraduate Society](https://www.musmcgill.com/)
+- [McGill Library](https://www.mcgill.ca/library/)
+- [McGill Writing Center](https://www.mcgill.ca/mwc/)
+- [Visual Schedule Builder](https://vsb.mcgill.ca/)
+- [McGill Course Finder](https://www.mcgill.ca/students/courses/calendars/course-search)
+
+## 📚 McGill Student Communities
 - [McGill Reddit](https://www.reddit.com/r/mcgill/)
-- McGill Library
-- McGill Writing Center
+- [McGil Official Discord](https://discord.com/invite/mcgill)
+- [McGill Student Hub](https://discord.gg/BerRzAV6wV)
 
 ## 🎓 Students Developed Tools
 - McGill Enhanced
@@ -19,14 +25,14 @@
 ## 👩‍💻 Open Source Projects
 - McGill Reddit Wiki
 - McGill Enhanced
-- McGill App
-- Find a Seat
+- [Find a Seat](https://www.freeseatfinder.com/)
+- [Docuum](http://www.docuum.com/McGill)
 
 ## 🧑‍🏫 Student Services
-- Campus Life and Engagements
-- Career Planning Service
-- First People's House
-- International Student Services
+- [Campus Life and Engagements](https://www.mcgill.ca/cle/)
+- [Career Planning Service](https://www.mcgill.ca/caps/)
+- [First People's House](https://www.mcgill.ca/fph/)
+- [International Student Services](https://www.mcgill.ca/internationalstudents/)
 
 ## 🌎 McGill Discord Servers
 - McGil Official Discord
