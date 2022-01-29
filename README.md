@@ -7,7 +7,6 @@
 - [Management Undergraduate Society](https://www.musmcgill.com/)
 - [McGill Library](https://www.mcgill.ca/library/)
 - [McGill Writing Center](https://www.mcgill.ca/mwc/)
-- [Visual Schedule Builder](https://vsb.mcgill.ca/)
 - [McGill Course Finder](https://www.mcgill.ca/students/courses/calendars/course-search)
 
 ## 📚 McGill Student Communities
@@ -15,16 +14,11 @@
 - [McGil Official Discord](https://discord.com/invite/mcgill)
 - [McGill Student Hub](https://discord.gg/BerRzAV6wV)
 
-## 🎓 Students Developed Tools
+## 🎓 Students Tools
 - McGill Enhanced
 - Find a Seat
 - Visual Schedule Builder
-- McGill Course Finder
-- Doccum
-
-## 👩‍💻 Open Source Projects
-- McGill Reddit Wiki
-- McGill Enhanced
+- [Visual Schedule Builder](https://vsb.mcgill.ca/)
 - [Find a Seat](https://www.freeseatfinder.com/)
 - [Docuum](http://www.docuum.com/McGill)
 
@@ -33,9 +27,6 @@
 - [Career Planning Service](https://www.mcgill.ca/caps/)
 - [First People's House](https://www.mcgill.ca/fph/)
 - [International Student Services](https://www.mcgill.ca/internationalstudents/)
-
-## 🌎 McGill Discord Servers
-- McGil Official Discord
 
 ## Safety Resources
 - Call 911 for all emergency
