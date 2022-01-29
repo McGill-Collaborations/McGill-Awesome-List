@@ -28,12 +28,12 @@
 - [First People's House](https://www.mcgill.ca/fph/)
 - [International Student Services](https://www.mcgill.ca/internationalstudents/)
 
-## Safety Resources
+## 🚨 Safety Resources
 - Call 911 for all emergency
 - SSMU Walksafe 514-398-2498
 - SSMU Drivesafe 514-398-8040
 
-## Mental Health Resources
+## 🧠 Mental Health Resources
 - Call 911 for all emergencies
 - Nightline (514) 398 6246
 - Peer Support Centre
@@ -42,12 +42,12 @@
 - SACOMSS (514) 398-2498
 - OSVRSE (514) 398-4486
 
-## Legal Resources
+## 👩‍⚖️ Legal Resources
 - Educaloi
 - Legal Information Clinic at McGill
 - Project Genesis
 
-## Campus Media
+## 📻 Campus Media
 - CKUT (radio)
 - TVM (video)
 - The McGill Tribune (print)
@@ -79,7 +79,6 @@
   - Soupe Cafe
   - Starbucks
   - Subway
-  - Trottier Cafe
   - Quesada
   - Vinh's
 
@@ -97,8 +96,3 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <br>
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
-
-
-
-
-
