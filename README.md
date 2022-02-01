@@ -29,7 +29,7 @@
 - [International Student Services](https://www.mcgill.ca/internationalstudents/)
 
 ## 🚨 Safety Resources
-- Call 911 for all emergency
+- 911 for all emergency
 - SSMU Walksafe 514-398-2498
 - SSMU Drivesafe 514-398-8040
 
